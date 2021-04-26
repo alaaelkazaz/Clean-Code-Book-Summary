@@ -2,7 +2,7 @@
 A brief of Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 ## Index 
-5. [Formatting](#5. Formatting)
+5. [Formatting](#Formatting)
 
 ## 5. Formatting 
 >When people look under the hood, we want them to be impressed with the neatness, consistency,
