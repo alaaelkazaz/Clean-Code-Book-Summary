@@ -4,7 +4,7 @@ A brief of Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. 
 ## Index 
 5. [Formatting](#Formatting)
 
-## 5. Formatting 
+## <a name="Formatting"> 5. Formatting </a>  
 >When people look under the hood, we want them to be impressed with the neatness, consistency,
 and attention to detail that they perceive. We want them to be struck by the
 orderliness
