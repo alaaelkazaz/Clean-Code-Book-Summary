@@ -10,7 +10,7 @@ and attention to detail that they perceive. We want them to be struck by the
 orderliness
 
 #### 5.0 The purpose of formatting 
-    - Code formatting is about communication, and
+   - Code formatting is about communication, and
     - Communication is the professional developer’s first order of business.
 
     - The coding style and readability set precedents that continue to
