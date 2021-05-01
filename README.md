@@ -3,6 +3,7 @@ A brief of Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. 
 
 ## Index 
 5. [Formatting](#Formatting)
+6. [Objects and Data Structures](#objectsandDS)
 
 ## <a name="Formatting"> 5. Formatting </a>  
 >When people look under the hood, we want them to be impressed with the neatness, consistency,
@@ -54,6 +55,24 @@ orderliness
             - Function dependance 
             - Funcion using a variable.
             - A group of functions perform similarly.
+   -  Vertical ordering:
+            - Function call dependencies to point in the downward direction.That is,
+              a function that is called should be below a function that does the calling
+#### 5.6 Horizontal Formatting
+   - Programmers clearly prefer short lines.
+   - Horizontal Openness and Density
+            - We use horizontal white space to associate things that are strongly related and disassociate
+              things that are more weakly related.
+   - Horizontal Alignment: aligned, the problem is the length of the lists(Declared variables one after another for example), not
+     the lack of alignment.
+   - Indentation: to make this hierarchy of scopes visible, we indent the lines of source code in proportion
+     to their position in the hiearchy.
+   - Programmers rely heavily on this indentation scheme.
+#### 5.7 Team Rules 
+   - A team of developers should agree upon a single formatting style.
+   - Remember, a good software system is composed of a set of documents that read nicely.
+ 
+## <a name="objectsandDS"> 6. Objects and Data Structures </a> 
 
  
 
